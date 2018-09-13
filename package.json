@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-v2",
+  "version": "1.0.0",
+  "description": "responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killykan/portfolio-v2.git"
+  },
+  "keywords": [
+    "responsive",
+    "scss"
+  ],
+  "author": "killyk4n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killykan/portfolio-v2/issues"
+  },
+  "homepage": "https://github.com/killykan/portfolio-v2#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
