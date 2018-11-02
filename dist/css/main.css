@@ -6,10 +6,7 @@
   cursor: pointer;
   transition: all 1s ease-out; }
   .menu-btn .btn-line {
-    width: 28px;
-    height: 3px;
     margin: 0 0 5px 0;
-    background: #fff;
     transition: all 1s ease-out; }
 
 * {
