@@ -9,10 +9,18 @@
     @include easeOut;
 
     .btn-line {
-        
         margin: 0 0 5px 0;
-        
         @include easeOut;
     }
+}
+
+// show/hidden state
+
+.hidden {
+    display: none;
+}
+
+.show{
+    display: block;
 }
 
